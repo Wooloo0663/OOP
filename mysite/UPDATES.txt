@@ -1,0 +1,14 @@
+Fixed boss items spawning more frequently than intended, especially when more items drop from multiplayer or Mountain Shrine bonuses
+Fixed large rocks in Titanic Plains clipping into the camera
+Altered geometry slightly to make more difficult to accidentally go out of bounds on many stages
+Abandoned Aqueduct now has defensive tar fully circling outside of the play area
+Fixed korean language characters missing in certain cases
+Fixed some animation issues on the Loader
+Fixed physics issues with Commando’s Frag Grenades
+Fixed certain drones not having 360° vision, causing them to attack or heal less
+Fixed Lunar Chimera’s death animations not matching the sound timings
+Fixed more occlusion issues in Sundered Grove and other maps that cause objects to disappear at certain camera angles
+Fixed certain survivors not removing their limbs when picking up Paul’s Goat Hoof or the Royal Capacitor
+Fixed Helfire Tincture’s burning effect being offset
+Fixed Chain Lightning and Razorwire making trail renderers that were not being cleaned up, potentially causing infinite objects in the scene
+Fixed Mini Mushrums making hitboxes that were not being cleaned up, potentially causing infinite objects in the scene
